@@ -1,0 +1,2 @@
+Adicionando algumas palavras como teste, através do nano do linux.
+Teste do Git :)
